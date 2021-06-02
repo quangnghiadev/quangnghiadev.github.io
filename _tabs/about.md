@@ -5,4 +5,8 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+- 👋 Hi, I’m @quangnghiadev
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning SwiftUI/Combine
+- 💞️ I’m looking to collaborate on OSS projects
+- 📫 Reach me at quangnghiadev@gmail.com
