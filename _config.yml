@@ -75,7 +75,7 @@ theme_mode:  dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://quangnghiadev.com/image/profile.png
+avatar: https://quangnghiadev.com/assets/img/profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
