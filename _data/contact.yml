@@ -1,10 +1,6 @@
 #  The contact options.
 
 -
-  type: home
-  icon: 'fas fa-home'
-  url:  'https://quangnghiadev.com'
--
   type: github
   icon: 'fab fa-github-alt'
 -
